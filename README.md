@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Jenny Van, a master's student in Computer Science at Georgia Tech, specializing in Machine Learning. I have a BS in Biochemistry from the University of Washington, where I initially pursued pre-med. My diverse background fuels my passion for applying advanced computational techniques to solve real-world problems.
 <!--
 **tuongv-1736461/tuongv-1736461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
